@@ -30,4 +30,4 @@ DATA/
 cd code
 python HEDseg_start.py
 ```
-![image](https://github.com/hohosoda/GUI-for-Medical-Image-Segmentation/blob/main/Usage.PNG)
+![image](https://github.com/hohosoda/GUI4ImageSeg/blob/main/Usage.PNG)
