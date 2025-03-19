@@ -1,4 +1,4 @@
-## GUI for Medical Image Segmentation
+# GUI for Medical Image Segmentation
 
 ## Requirements
 Some important required packages include:
