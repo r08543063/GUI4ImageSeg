@@ -1,4 +1,3 @@
-# GUI4ImageSeg
 ## GUI for Medical Image Segmentation
 
 ## Requirements
